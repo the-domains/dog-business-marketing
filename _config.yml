@@ -1,0 +1,28 @@
+name: Dog Business Marketing
+favicon: null
+layout_spectrum: 0.002866333583369851
+typography_spectrum: 0.2395730884745717
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5352818395476788
+  lightness: 0.20754665741696954
+  saturation: 0.4324709754437208
+  rhythmicContrast: 0.48350238986313343
+purpose: []
