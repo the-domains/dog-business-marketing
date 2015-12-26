@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dog Business Marketing]]></title>
         <description><![CDATA[Dog Business Marketing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dog-business-marketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 22:41:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Dec 2015 23:17:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dog-business-marketing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64e2823d-7869-41af-b69f-e6b3ead841e0.gif">]]></description>
+            <link>https://thegrid.ai/dog-business-marketing/462f6709-aabf-46f2-a2fb-50db69c40063/index.html</link>
+            <guid isPermaLink="false">462f6709-aabf-46f2-a2fb-50db69c40063</guid>
+            <pubDate>Sat, 26 Dec 2015 23:17:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd3daf4d-4614-450d-b52c-a4a45536085f.png">]]></description>
-            <link>undefined071b5cbd-5518-4f35-a1c3-2cb9ee071e89/index.html</link>
+            <link>https://thegrid.ai/dog-business-marketing/071b5cbd-5518-4f35-a1c3-2cb9ee071e89/index.html</link>
             <guid isPermaLink="false">071b5cbd-5518-4f35-a1c3-2cb9ee071e89</guid>
             <pubDate>Sat, 26 Dec 2015 22:41:50 GMT</pubDate>
         </item>
